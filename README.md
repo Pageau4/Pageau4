@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pageau4
+- 👋 Hi, I’m Philippe Pageau
 - 👀 I’m interested in ... CSS animations and web developpement
 - 🌱 I’m currently learning ... Gelato
 - 💞️ I’m looking to collaborate on ...
